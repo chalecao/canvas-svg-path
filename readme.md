@@ -4,4 +4,3 @@
 
 ## demo
 看下 index.html
-<iframe src="./demos/index.html"></iframe>
